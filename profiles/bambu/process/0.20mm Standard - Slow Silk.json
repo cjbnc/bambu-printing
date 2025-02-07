@@ -1,0 +1,16 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_infill_speed": "60",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard - Slow Silk",
+    "outer_wall_speed": "60",
+    "print_settings_id": "0.20mm Standard - Slow Silk",
+    "seam_gap": "3%",
+    "sparse_infill_pattern": "gyroid",
+    "support_on_build_plate_only": "1",
+    "top_shell_layers": "4",
+    "top_surface_speed": "60",
+    "version": "1.10.0.32"
+}

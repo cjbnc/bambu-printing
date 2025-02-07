@@ -1,0 +1,5 @@
+#!/bin/bash
+
+. .env
+
+cp -R $BAMBUPATH/* profiles/bambu/

@@ -1,0 +1,28 @@
+{
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "filament_settings_id": [
+        "Elegoo PETG"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Elegoo PETG",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.10.0.30"
+}

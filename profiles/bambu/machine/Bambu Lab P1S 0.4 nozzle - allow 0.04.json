@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "Bambu Lab P1S 0.4 nozzle",
+    "is_custom_defined": "0",
+    "min_layer_height": [
+        "0.04"
+    ],
+    "name": "Bambu Lab P1S 0.4 nozzle - allow 0.04",
+    "printer_settings_id": "Bambu Lab P1S 0.4 nozzle - allow 0.04",
+    "version": "1.10.0.32"
+}

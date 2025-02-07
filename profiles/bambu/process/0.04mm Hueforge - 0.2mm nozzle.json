@@ -1,0 +1,18 @@
+{
+    "bottom_shell_layers": "999",
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.08mm High Quality @BBL X1C 0.2 nozzle",
+    "initial_layer_print_height": "0.2",
+    "internal_solid_infill_speed": "100",
+    "is_custom_defined": "0",
+    "layer_height": "0.04",
+    "name": "0.04mm Hueforge - 0.2mm nozzle",
+    "print_settings_id": "0.04mm Hueforge - 0.2mm nozzle",
+    "slice_closing_radius": "0",
+    "sparse_infill_density": "100%",
+    "sparse_infill_pattern": "zig-zag",
+    "top_surface_speed": "100",
+    "version": "1.10.0.32",
+    "wall_loops": "1"
+}

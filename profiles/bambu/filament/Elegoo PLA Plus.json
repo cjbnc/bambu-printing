@@ -1,0 +1,49 @@
+{
+    "compatible_printers": [],
+    "cool_plate_temp": [
+        "30"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "30"
+    ],
+    "filament_cost": [
+        "12"
+    ],
+    "filament_flow_ratio": [
+        "0.957"
+    ],
+    "filament_max_volumetric_speed": [
+        "17"
+    ],
+    "filament_scarf_gap": [
+        "0"
+    ],
+    "filament_scarf_height": [
+        "0%"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA Plus"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Elegoo PLA Plus",
+    "nozzle_temperature": [
+        "217"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "217"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "supertack_plate_temp": [
+        "35"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "35"
+    ],
+    "version": "1.10.1.50"
+}

@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Bambu PLA Basic @BBL X1C - Litho"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PLA Basic @BBL X1C - Litho",
+    "temperature_vitrification": [
+        "60"
+    ],
+    "version": "1.10.0.27"
+}
