@@ -1,0 +1,24 @@
+{
+    "filament_max_volumetric_speed": [
+        "2.5"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Perfect TPU 95A"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "name": "Perfect TPU 95A",
+    "nozzle_temperature_range_high": [
+        "251"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.4.1.4"
+}
