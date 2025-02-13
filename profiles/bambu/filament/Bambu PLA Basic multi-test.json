@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Basic multi-test"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PLA Basic multi-test",
+    "version": "1.10.0.32"
+}
