@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "filament_settings_id": [
+        "Generic PLA - Multicolour Filament testing"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1M",
+    "name": "Generic PLA - Multicolour Filament testing",
+    "version": "1.10.0.32"
+}
