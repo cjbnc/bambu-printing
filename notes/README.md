@@ -1,4 +1,4 @@
 # Notes for using Bambu Studio
 
-One day I will write some things here.
+* [Transparent PLA](./transparent_pla.md)
 
