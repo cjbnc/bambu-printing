@@ -1,8 +1,8 @@
 # Micro-Swiss Flowtech Hotend
 
 I wanted to upgrade my OEM 0.4 hotend to something hardened. At the
-time, BamuLabs was short on stock just afte Christmas, so I looked into
-the kits available from
+time, Bambu Labs was short on stock just after Christmas, so I looked
+into the kits available from
 [Micro-Swiss](https://store.micro-swiss.com/collections/micro-swiss-flowtech/products/flowtech-hotend-for-bambu-lab-x1-and-p1-printers) instead.
 
 The advantage of being able to change the nozzle size without
@@ -34,3 +34,12 @@ printer retracted the filament OK, but I noticed the cut end was a
 little bit wide when trying to remove it from my AMS. No big deal to
 trim the end and keep going.
 
+## 0.2mm nozzle test
+
+I made a quick sample model in Bambu Studio by adding very small text
+to a white square, and then printed it with the 0.4mm nozzle (left)
+and the 0.2mm nozzle (right). Obviously fine detail is why you would
+use a 0.2. However, the model took about 3 times as long to print, 5
+mins vs 15 mins.
+
+![0.4mm print vs 0.2mm print](../images/04vs02_text.png)
