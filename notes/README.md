@@ -6,5 +6,6 @@
 
 ## My Stuff
 
-* [My Filaments](./my_filaments.md)
 * [Micro-Swiss Flowtech Hotend](./micro_swiss_hotend.md)
+* [My Filaments](./my_filaments.md)
+* [My MakerWorld Profile](./my_makerworld.md)
