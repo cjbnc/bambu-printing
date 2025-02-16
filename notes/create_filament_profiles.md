@@ -38,3 +38,5 @@ second step allows you to customize the filament profile.
 
 ![Edit Filament Preset](../images/newfilament_3.png)
 
+Credit: I learned this tip from this 
+[Reddit post and comments](https://www.reddit.com/r/BambuLab/comments/16j5189/filament_profiles_importing_both_filament_and/)
