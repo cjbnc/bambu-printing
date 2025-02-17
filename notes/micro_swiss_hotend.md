@@ -18,6 +18,12 @@ the 0.2 nozzle and the fine details are quite amazing. I haven't tried
 the 0.6 yet. I was going to use it with Wood, but so far the Bamabu Wood
 that I have is doing fine in the 0.4.
 
+>  I wrote the paragraph above and then spent the very next day cleaning
+>  out my extruder, AMS, and 0.4 nozzle because of a partial jam caused
+>  by printing and swapping wood PLA filaments. Figures. It did convince
+>  me to get a couple spare nozzles so I can just swap them out and deal
+>  with the clogs at a better time. -- cjbnc
+
 Changing the nozzle is a breeze.
 - let it cool to room temperature (ish)
 - remove the silicone sock
@@ -33,6 +39,7 @@ settings as much as anything. I've also had a couple times where the
 printer retracted the filament OK, but I noticed the cut end was a
 little bit wide when trying to remove it from my AMS. No big deal to
 trim the end and keep going.
+
 
 ## 0.2mm nozzle test
 
