@@ -5,11 +5,11 @@ I have purchased or used all of these filaments at one time or another.
 | Brand | Type | Color | Hex Color | TD | Date | Print Profile | Comments |
 | :---- | :--- | :---- | :-------- | -: | :--- | :------------ | :------- |
 | AnyCubic | PLA | Bright Red | #E63D41 | 3.2 | 2024-11-25 | Bambu PLA Basic | |
-| AnyCubic | PLA | Cyan | #23A8F2 | 3.5 | 2024-11-25 | Bambu PLA Basic | |
+| AnyCubic | PLA | Cyan | #23A8F2 | 3.5 | 2024-11-25 | Bambu PLA Basic | used up |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | Bambu | PLA Basic | Black | #000000 | 0.6 | 2024-11-23 | Bambu PLA Basic | used up for a while now |
 | Bambu | PLA Basic | Blue | #0A2989 | 4.0 | 2024-12-01 | Bambu PLA Basic | |
-| Bambu | PLA Basic | Cyan | #0086D6 | -- | 2024-12-01 | Bambu PLA Basic | not open yet |
+| Bambu | PLA Basic | Cyan | #0086D6 | 3.2 | 2024-12-01 | Bambu PLA Basic | |
 | Bambu | PLA Basic | Green | #00AE42 | 2.0 | 2024-11-23 | Bambu PLA Basic | 0.25kg sample, used up |
 | Bambu | PLA Basic | Jade White | #FFFFFF | 5.0 | 2024-12-01 | Bambu PLA Basic | |
 | Bambu | PLA Basic | Magenta | #EC008C | 4.0 | 2024-12-01 | Bambu PLA Basic | |
@@ -18,8 +18,8 @@ I have purchased or used all of these filaments at one time or another.
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | Bambu | PLA Glow | Green | #A1FFAC | 5.5 | 2025-01-31 | Bambu PLA Glow | flourescent |
 | Bambu | PLA Silk | Velvet Eclipse | #000000,#A34342 | 0.8 | 2025-02-14 | Bambu PLA Silk | dual-color red/black |
-| Bambu | PLA Wood | Rosewood | #4C241C | low | 2025-01-31 | Bambu PLA Wood | contains wood particles |
-| Bambu | PLA Wood | White Oak | #D6CCA3 | -- | 2025-02-14 | Bambu PLA Wood | contains wood particles, not open yet |
+| Bambu | PLA Wood | Rosewood | #4C241C | 0.4| 2025-01-31 | Bambu PLA Wood | contains wood particles |
+| Bambu | PLA Wood | White Oak | #D6CCA3 | 0.4 | 2025-02-14 | Bambu PLA Wood | contains wood particles, not open yet |
 | Bambu | Support for PLA | White | -- | -- | 2024-11-23 | Support for PLA | __AVOID__ using it weakend my models |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | Elegoo | PLA | Orange | #DF8334 | 7.2 | 2024-12-30 | Bambu PLA Basic | replaced Bambu sample |
