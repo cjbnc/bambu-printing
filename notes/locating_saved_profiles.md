@@ -64,6 +64,7 @@ To use one of them:
 ## Additional Profile Sources
 
 * [Bambu Studio Source Repo](https://github.com/bambulab/BambuStudio/tree/master/resources/profiles/BBL)
+  * [Bambu Adds SUNLU Profiles](https://github.com/bambulab/BambuStudio/tree/master/resources/profiles/BBL/filament/SUNLU)
 
 * [Elegoo PLA+ Calibrated Profile](https://makerworld.com/en/models/71200)
   * [my filament profile](../profiles/bambu/filament/Elegoo%20PLA%20Plus.json)
