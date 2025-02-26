@@ -22,6 +22,7 @@ I have purchased or used all of these filaments at one time or another.
 | Bambu | PLA Wood | White Oak | #D6CCA3 | 0.4 | 2025-02-14 | Bambu PLA Wood | contains wood particles, not open yet |
 | Bambu | Support for PLA | White | -- | -- | 2024-11-23 | Support for PLA | __AVOID__ using it weakend my models |
 | -- | -- | -- | -- | -- | -- | -- | -- |
+| Elegoo | PLA | Brown | #874C1C | 4.4 | 2025-02-25 | Bambu PLA Basic | a more translucent brown |
 | Elegoo | PLA | Orange | #DF8334 | 7.2 | 2024-12-30 | Bambu PLA Basic | replaced Bambu sample |
 | Elegoo | PLA | Purple | #6E55AC | 3.5 | 2024-12-30 | Bambu PLA Basic | |
 | Elegoo | PLA+ | White | #FFFFFF | 7.0 | 2024-11-25 | my profile | my go-to white PLA, buy in bulk on Amazon |
