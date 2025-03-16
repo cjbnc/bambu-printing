@@ -6,6 +6,7 @@
 * [Locating and Sharing Saved Profiles](./locating_saved_profiles.md)
 * [Transparent PLA](./transparent_pla.md)
 * [Wood PLA](./wood_pla.md)
+* [Infill Settings](./infill_settings.md)
 
 ## Maintenance Notes
 
