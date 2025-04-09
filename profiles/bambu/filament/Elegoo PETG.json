@@ -1,4 +1,7 @@
 {
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_max_volumetric_speed": [
         "11"
     ],
@@ -7,7 +10,6 @@
     ],
     "from": "User",
     "inherits": "Bambu PETG Basic @BBL X1C",
-    "is_custom_defined": "0",
     "name": "Elegoo PETG",
     "nozzle_temperature": [
         "260"

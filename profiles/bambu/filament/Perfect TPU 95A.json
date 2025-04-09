@@ -1,4 +1,7 @@
 {
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_max_volumetric_speed": [
         "2.5"
     ],

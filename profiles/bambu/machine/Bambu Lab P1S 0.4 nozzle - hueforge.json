@@ -1,11 +1,16 @@
 {
     "from": "User",
     "inherits": "Bambu Lab P1S 0.4 nozzle",
-    "is_custom_defined": "0",
     "min_layer_height": [
         "0.04"
     ],
     "name": "Bambu Lab P1S 0.4 nozzle - hueforge",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "printer_settings_id": "Bambu Lab P1S 0.4 nozzle - hueforge",
     "version": "1.10.0.27"
 }

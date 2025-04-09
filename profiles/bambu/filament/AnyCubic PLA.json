@@ -1,10 +1,12 @@
 {
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_settings_id": [
         "AnyCubic PLA"
     ],
     "from": "User",
     "inherits": "Bambu PLA Basic @BBL X1C",
-    "is_custom_defined": "0",
     "name": "AnyCubic PLA",
     "version": "1.10.0.32"
 }

@@ -8,6 +8,9 @@
     "chamber_temperatures": [
         "0"
     ],
+    "circle_compensation_speed": [
+        "200"
+    ],
     "close_fan_the_first_x_layers": [
         "3"
     ],
@@ -26,8 +29,26 @@
     "cool_plate_temp_initial_layer": [
         "0"
     ],
+    "counter_coef_1": [
+        "0"
+    ],
+    "counter_coef_2": [
+        "0.025"
+    ],
+    "counter_coef_3": [
+        "-0.11"
+    ],
+    "counter_limit_max": [
+        "0.05"
+    ],
+    "counter_limit_min": [
+        "-0.04"
+    ],
     "default_filament_colour": [
         ""
+    ],
+    "diameter_limit": [
+        "50"
     ],
     "during_print_exhaust_fan_speed": [
         "70"
@@ -53,6 +74,12 @@
     "fan_min_speed": [
         "10"
     ],
+    "filament_adhesiveness_category": [
+        "0"
+    ],
+    "filament_change_length": [
+        "10"
+    ],
     "filament_cost": [
         "24.99"
     ],
@@ -67,6 +94,9 @@
     ],
     "filament_end_gcode": [
         "; filament end gcode \nM106 P3 S0\n"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
         "0.95"
@@ -85,6 +115,18 @@
         "15"
     ],
     "filament_notes": "",
+    "filament_pre_cooling_temperature": [
+        "nil"
+    ],
+    "filament_prime_volume": [
+        "45"
+    ],
+    "filament_ramming_travel_time": [
+        "nil"
+    ],
+    "filament_ramming_volumetric_speed": [
+        "nil"
+    ],
     "filament_retract_before_wipe": [
         "nil"
     ],
@@ -152,14 +194,31 @@
     "full_fan_speed_layer": [
         "0"
     ],
+    "hole_coef_1": [
+        "0"
+    ],
+    "hole_coef_2": [
+        "-0.025"
+    ],
+    "hole_coef_3": [
+        "0.28"
+    ],
+    "hole_limit_max": [
+        "0.25"
+    ],
+    "hole_limit_min": [
+        "0.08"
+    ],
     "hot_plate_temp": [
         "70"
     ],
     "hot_plate_temp_initial_layer": [
         "70"
     ],
+    "impact_strength_z": [
+        "0"
+    ],
     "inherits": "",
-    "is_custom_defined": "0",
     "name": "Elegoo PETG Basic @Bambu Lab P1S 0.4 nozzle",
     "nozzle_temperature": [
         "260"
@@ -181,6 +240,9 @@
     ],
     "overhang_threshold_participating_cooling": [
         "95%"
+    ],
+    "pre_start_fan_time": [
+        "2"
     ],
     "pressure_advance": [
         "0.02"

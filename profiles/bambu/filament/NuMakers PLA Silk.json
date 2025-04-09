@@ -5,6 +5,9 @@
     "fan_cooling_layer_time": [
         "10"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_retraction_length": [
         "0.8"
     ],
@@ -22,7 +25,6 @@
         "60"
     ],
     "inherits": "Generic PLA Silk",
-    "is_custom_defined": "0",
     "name": "NuMakers PLA Silk",
     "nozzle_temperature_range_high": [
         "230"

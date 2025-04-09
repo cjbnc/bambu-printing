@@ -2,32 +2,52 @@
     "bottom_shell_layers": "999",
     "bottom_surface_pattern": "zig-zag",
     "brim_type": "no_brim",
-    "default_acceleration": "3000",
+    "default_acceleration": [
+        "3000"
+    ],
     "detect_narrow_internal_solid_infill": "0",
     "enable_prime_tower": "0",
-    "ensure_vertical_shell_thickness": "0",
+    "ensure_vertical_shell_thickness": "partial",
     "from": "User",
-    "gap_infill_speed": "200",
+    "gap_infill_speed": [
+        "200"
+    ],
     "inherits": "0.08mm Extra Fine @BBL X1C",
     "initial_layer_print_height": "0.16",
-    "inner_wall_speed": "200",
-    "internal_solid_infill_speed": "150",
-    "is_custom_defined": "0",
+    "inner_wall_speed": [
+        "200"
+    ],
+    "internal_solid_infill_speed": [
+        "150"
+    ],
     "name": "0.08mm HueForge",
-    "outer_wall_acceleration": "1000",
+    "outer_wall_acceleration": [
+        "1000"
+    ],
     "prime_tower_width": "15",
-    "prime_volume": "30",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "print_settings_id": "0.08mm HueForge",
     "slice_closing_radius": "0",
     "sparse_infill_density": "100%",
     "sparse_infill_pattern": "zig-zag",
-    "sparse_infill_speed": "150",
+    "sparse_infill_speed": [
+        "150"
+    ],
     "top_one_wall_type": "not apply",
     "top_shell_layers": "1",
     "top_shell_thickness": "0",
-    "top_surface_acceleration": "1000",
+    "top_surface_acceleration": [
+        "1000"
+    ],
     "top_surface_pattern": "zig-zag",
-    "top_surface_speed": "150",
+    "top_surface_speed": [
+        "150"
+    ],
     "version": "1.10.0.27",
     "wall_loops": "1"
 }

@@ -9,6 +9,9 @@
     "filament_cost": [
         "12"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.957"
     ],

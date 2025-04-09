@@ -8,6 +8,9 @@
     "filament_cost": [
         "13"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_max_volumetric_speed": [
         "18"
     ],
@@ -22,7 +25,6 @@
     ],
     "from": "User",
     "inherits": "Bambu PLA Basic @BBL X1C",
-    "is_custom_defined": "0",
     "name": "Sunlu PLA Basic",
     "nozzle_temperature_range_low": [
         "200"
