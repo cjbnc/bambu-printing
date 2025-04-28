@@ -4,6 +4,7 @@
 
 * [How to Create Filament Profiles](./create_filament_profiles.md)
 * [Locating and Sharing Saved Profiles](./locating_saved_profiles.md)
+* [Set Filament Color Order](./color_order.md)
 * [Transparent PLA](./transparent_pla.md)
 * [Wood PLA](./wood_pla.md)
 * [Infill Settings](./infill_settings.md)
